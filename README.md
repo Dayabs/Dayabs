@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dayabs
+- 👋 Hi, I’m @Daya
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning python and machine learning
 - 💞️ I’m looking to collaborate on AI and ML Projects
